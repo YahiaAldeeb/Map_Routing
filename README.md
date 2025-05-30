@@ -164,7 +164,15 @@ The system tracks and reports:
 
 ---
 
-**Author**: Transportation Algorithms Team  
+## Collaborators
+- [Yahia Aldeeb](https://github.com/YahiaAldeeb)
+- [Hana Omar](https://github.com/HanaOmar1)
+- [Abdelrahman Maamoun](https://github.com/amaamoun99)
+- [Manar Sayed](https://github.com/Manarsayedd)
+- [Yasmeen Ahmed](https://github.com/yassmeenahmedd)
+- [Farida Ali](https://github.com/farridaali)
+
+
 **Language**: C++  
 **Algorithm**: Modified Dijkstra with Super Nodes  
 **Application**: Urban Route Planning
