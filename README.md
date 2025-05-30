@@ -164,7 +164,7 @@ The system tracks and reports:
 
 ---
 
-## Collaborators
+## 👥 Authors
 - [Yahia Aldeeb](https://github.com/YahiaAldeeb)
 - [Hana Omar](https://github.com/HanaOmar1)
 - [Abdelrahman Maamoun](https://github.com/amaamoun99)
@@ -172,6 +172,7 @@ The system tracks and reports:
 - [Yasmeen Ahmed](https://github.com/yassmeenahmedd)
 - [Farida Ali](https://github.com/farridaali)
 
+---
 
 **Language**: C++  
 **Algorithm**: Modified Dijkstra with Super Nodes  
